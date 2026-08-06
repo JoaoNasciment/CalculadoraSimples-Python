@@ -13,8 +13,8 @@ Calculadora simples desenvolvida em Python para praticar lógica de programaçã
 
 ## Funcionalidades
 
-Soma
-Subtração
-Multiplicação
-Divisão
+Soma - 
+Subtração - 
+Multiplicação -
+Divisão -
 Tratamento para divisão por zero
